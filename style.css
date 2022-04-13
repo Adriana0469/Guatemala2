@@ -1,0 +1,67 @@
+*{padding:0;margin:0;}
+
+h1 {color:mediumaquamarine;
+  margin-right:100px;
+  margin-left:350px;
+  font-size:40px;
+  text-decoration:none;
+  font-family:garamond-serif;
+}
+a {color:darkseagreen;
+  margin-left:130px;
+  margin-right:145px;
+   font-family:garamond-serif;
+  text-decoration:none;
+}
+p {color:thistle;
+ font-family:garamond-serif;
+  margin-left:330px;
+}
+
+iframe {margin-left:200px;
+margin-top:30px
+
+}
+
+#navbar {
+  background-color:rgb(255, 245, 238);}
+
+.trio {
+  background-color:rgb(189, 181, 213,.5);
+  width:100%;
+  height:250px;
+}
+
+.trio img {
+  padding:35px;
+  float:left;
+  width:26%;
+  height:180px;
+}
+
+.cuarteto {
+  background-color:rgba(189,181,213,.5);
+  width:100%;
+  height:300px;
+}
+
+.cuarteto img {
+  padding:5px;
+  float:left;
+  width:24%;
+  height:270px;
+}
+
+
+.duo {
+  background-color:rgb(189, 181, 213,.5);
+  width:100%;
+  height:200px;
+}
+
+.duo img {
+  float:left;
+  width:26%;
+  height:180px;
+}
+
